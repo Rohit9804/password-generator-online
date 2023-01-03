@@ -1,0 +1,32 @@
+body {
+    text-align: left;
+    margin: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    background-color: #1C1C1C;
+    padding : 10px 30px;
+}
+h2{
+    margin-top: -10px;
+
+}
+button{
+    margin-top: 40px;
+    padding : 8px 7px;
+    background-color: #10B981;
+}
+button:hover{
+    width : 135px;
+    height: 37px;
+}
+.rohit{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+}
+#firstpass{
+    background-color: #3C3C3C;
+    padding : 7px 7px;
+    
+}
